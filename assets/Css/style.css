@@ -86,3 +86,8 @@
           ...
           border: solid 3px #024e76;
         }
+        /* Hero Style Start */
+.hero {
+  background-image: url("../images/hero-bg.jpg");
+  height: 600px;
+}
